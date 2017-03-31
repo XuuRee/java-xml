@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Spring2017_PB138_Task1" duration-ms="264" started-at="2017-03-18T10:44:24Z" finished-at="2017-03-18T10:44:24Z">
+    <groups>
+    </groups>
+    <test name="cz.muni.fi.pb138.jaro2017.task1.Task1Test" duration-ms="264" started-at="2017-03-18T10:44:24Z" finished-at="2017-03-18T10:44:24Z">
+      <class name="cz.muni.fi.pb138.jaro2017.task1.Task1Test">
+        <test-method status="PASS" signature="testAddNote()[pri:0, instance:testAddNote(cz.muni.fi.pb138.jaro2017.task1.Task1Test)]" name="testAddNote" duration-ms="110" started-at="2017-03-18T11:44:24Z" finished-at="2017-03-18T11:44:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddNote -->
+        <test-method status="PASS" signature="testAverageSalaryAtPosition()[pri:0, instance:testAverageSalaryAtPosition(cz.muni.fi.pb138.jaro2017.task1.Task1Test)]" name="testAverageSalaryAtPosition" duration-ms="31" started-at="2017-03-18T11:44:24Z" finished-at="2017-03-18T11:44:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAverageSalaryAtPosition -->
+      </class> <!-- cz.muni.fi.pb138.jaro2017.task1.Task1Test -->
+    </test> <!-- cz.muni.fi.pb138.jaro2017.task1.Task1Test -->
+  </suite> <!-- Spring2017_PB138_Task1 -->
+</testng-results>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+    <name>My Corporate, Ltd.</name>
+    <!-- did is required, a string -->
+    <division did="production_zlin">
+        <!-- name is optional and contains a string -->
+        <name>Production factory Zlín</name>
+        <!-- head is optional and contains always a person if present -->
+        <head>
+            <!-- pid is required, unique, string -->
+            <person pid="1"> 	
+                <!-- name is required, non-empty string -->	 
+                <name>Pavel</name>	 
+                <!-- surname is required, non-empty string -->
+                <surname>Novák</surname> 
+                <!-- note optional element, repeatable, contains any string -->  
+                <note>Poznámka</note>   
+            </person>            
+            <!-- salary is required, positive number 
+            with 2 decimal places precision, e.g. 10000.50 -->
+            <salary>20000.00</salary> 
+        </head>
+        <!-- employees element contains zero or more employee elts -->
+        <employees>
+            <!-- position is neither required nor unique -->
+            <employee position="worker">
+                <!-- employee contains zero or one person -->
+                <person pid="2">
+                    <name>Libor</name>
+                    <surname>Polák</surname>
+                </person>
+                <salary>29000.00</salary>
+            </employee>
+            <employee position="tester">
+                <!-- employee contains zero or one person -->
+                <person pid="3">
+                    <name>Libor</name>
+                    <surname>Tester</surname>
+                </person>
+                <salary>39000.00</salary>
+            </employee>
+            <employee position="packaging">
+                <person pid="4">
+                    <name>Jan</name>
+                    <surname>Hroza</surname>
+                </person>
+                <salary>18000.00</salary>
+            </employee>
+        </employees>
+    </division>
+    <division did="development_brno">
+        <name>Development division Brno</name>
+        <employees>
+            <employee position="tester">
+                <person pid="1">
+                    <name>Jan</name>
+                    <surname>Horák</surname>
+                </person>
+                <salary>25000.00</salary>
+            </employee>
+            <employee position="developer">
+                <person pid="6">
+                    <name>László</name>
+                    <surname>Meszáros</surname>
+                </person>
+                <salary>69000.00</salary>
+            </employee>
+            <employee position="developer">
+                <person pid="61">
+                    <name>Gyula</name>
+                    <surname>Meszáros</surname>
+                </person>
+                <salary>59000.00</salary>
+            </employee>
+            <employee position="tester">
+                <person pid="13">
+                    <name>Jan</name>
+                    <surname>Zeman</surname>
+                </person>
+                <salary>27845.50</salary>
+            </employee>
+            <employee position="worker">
+                <person pid="30">
+                    <name>George</name>
+                    <surname>Worker</surname>
+                </person>
+                <salary>42700.00</salary>
+            </employee>
+        </employees>
+    </division>
+    <position id="worker">
+        <description>Worker</description>
+        <responsibility>works in the production</responsibility>
+    </position>
+    <position id="developer">
+        <description>Developer</description>
+        <responsibility>independently works in the software development</responsibility>
+    </position>
+    <position id="tester">
+        <description>Tester</description>
+        <responsibility>tests the software</responsibility>
+    </position>
+</company>
