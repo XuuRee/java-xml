@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<WN>
+    <SYNSET>
+        <ID>eng-30-01170052-v</ID>
+        <POS>v</POS>
+        <SYNONYM>
+            <LITERAL sense="1">drink</LITERAL>
+            <LITERAL sense="3">imbibe</LITERAL>
+        </SYNONYM>
+        <ILR type="hypernym">eng-30-01156834-v</ILR>
+        <ILR type="also_see">eng-30-01175937-v</ILR>
+        <ILR type="also_see">eng-30-01202374-v</ILR>
+        <ILR type="eng_derivative">eng-30-00839778-n</ILR>
+        <ILR type="eng_derivative">eng-30-00843128-n</ILR>
+        <ILR type="eng_derivative">eng-30-07881800-n</ILR>
+        <ILR type="eng_derivative">eng-30-07885223-n</ILR>
+        <ILR type="eng_derivative">eng-30-10034201-n</ILR>
+        <ILR type="eng_derivative">eng-30-10034614-n</ILR>
+        <DEF>take in liquids</DEF>
+        <USAGE>The patient must drink several liters each day</USAGE>
+        <USAGE>The children like to drink soda</USAGE>
+    </SYNSET>
+    <SYNSET>
+        <ID>eng-30-01171183-v</ID>
+        <POS>v</POS>
+        <SYNONYM>
+            <LITERAL sense="2">drink</LITERAL>
+            <LITERAL sense="1">booze</LITERAL>
+            <LITERAL sense="2">fuddle</LITERAL>
+        </SYNONYM>
+        <ILR type="hypernym">eng-30-01156834-v</ILR>
+        <ILR type="verb_group">eng-30-01172275-v</ILR>
+        <ILR type="eng_derivative">eng-30-00748515-n</ILR>
+        <ILR type="eng_derivative">eng-30-07901587-n</ILR>
+        <ILR type="eng_derivative">eng-30-09782167-n</ILR>
+        <ILR type="eng_derivative">eng-30-10034201-n</ILR>
+        <DEF>consume alcohol</DEF>
+        <USAGE>We were up drinking all night</USAGE>
+    </SYNSET>
+    <SYNSET>
+        <ID>eng-30-07881800-n</ID>
+        <POS>n</POS>
+        <SYNONYM>
+            <LITERAL sense="1">beverage</LITERAL>
+            <LITERAL sense="3">drink</LITERAL>
+            <LITERAL sense="1">drinkable</LITERAL>
+            <LITERAL sense="1">potable</LITERAL>
+        </SYNONYM>
+        <ILR type="hypernym">eng-30-00021265-n</ILR>
+        <ILR type="hypernym">eng-30-14940386-n</ILR>
+        <ILR type="eng_derivative">eng-30-00797113-a</ILR>
+        <ILR type="eng_derivative">eng-30-01170052-v</ILR>
+        <DEF>any liquid suitable for drinking</DEF>
+        <USAGE>may I take your beverage order?</USAGE>
+    </SYNSET>
+    <SYNSET>
+        <ID>eng-30-07885223-n</ID>
+        <POS>n</POS>
+        <SYNONYM>
+            <LITERAL sense="1">drink</LITERAL>
+        </SYNONYM>
+        <ILR type="hypernym">eng-30-07578363-n</ILR>
+        <ILR type="eng_derivative">eng-30-01170052-v</ILR>
+        <DEF>a single serving of a beverage</DEF>
+        <USAGE>I asked for a hot drink</USAGE>
+        <USAGE>likes a drink before dinner</USAGE>
+    </SYNSET>
+    <SYNSET>
+        <ID>eng-30-00748515-n</ID>
+        <POS>n</POS>
+        <SYNONYM>
+            <LITERAL sense="2">drink</LITERAL>
+            <LITERAL sense="2">drinking</LITERAL>
+            <LITERAL sense="1">boozing</LITERAL>
+            <LITERAL sense="3">drunkenness</LITERAL>
+            <LITERAL sense="1">crapulence</LITERAL>
+        </SYNONYM>
+        <ILR type="hypernym">eng-30-00748011-n</ILR>
+        <ILR type="eng_derivative">eng-30-00010385-a</ILR>
+        <ILR type="eng_derivative">eng-30-00010537-a</ILR>
+        <ILR type="eng_derivative">eng-30-01171183-v</ILR>
+        <ILR type="eng_derivative">eng-30-01172275-v</ILR>
+        <DEF>the act of drinking alcoholic beverages to excess</DEF>
+        <USAGE>drink was his downfall</USAGE>
+    </SYNSET>
+    <SYNSET>
+        <ID>eng-30-02510455-n</ID>
+        <POS>n</POS>
+        <SYNONYM>
+            <LITERAL sense="1">giant panda</LITERAL>
+            <LITERAL sense="1">panda</LITERAL>
+            <LITERAL sense="1">panda bear</LITERAL>
+            <LITERAL sense="1">coon bear</LITERAL>
+            <LITERAL sense="1">Ailuropoda melanoleuca</LITERAL>
+        </SYNONYM>
+        <ILR type="hypernym">eng-30-02507649-n</ILR>
+        <ILR type="holo_member">eng-30-02510240-n</ILR>
+        <DEF>large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a member of the bear family or of a separate family Ailuropodidae</DEF>
+    </SYNSET>
+    <SYNSET>
+        <ID>eng-30-02509815-n</ID>
+        <POS>n</POS>
+        <SYNONYM>
+            <LITERAL sense="1">lesser panda</LITERAL>
+            <LITERAL sense="1">red panda</LITERAL>
+            <LITERAL sense="2">panda</LITERAL>
+            <LITERAL sense="1">bear cat</LITERAL>
+            <LITERAL sense="1">cat bear</LITERAL>
+            <LITERAL sense="1">Ailurus fulgens</LITERAL>
+        </SYNONYM>
+        <ILR type="hypernym">eng-30-02507649-n</ILR>
+        <ILR type="holo_member">eng-30-02509694-n</ILR>
+        <DEF>reddish-brown Old World raccoon-like carnivore; in some classifications considered unrelated to the giant pandas</DEF>
+    </SYNSET>
+    <SYNSET>
+        <ID>eng-30-02138441-n</ID>
+        <POS>n</POS>
+        <SYNONYM>
+            <LITERAL sense="1">meerkat</LITERAL>
+            <LITERAL sense="1">mierkat</LITERAL>
+        </SYNONYM>
+        <ILR type="hypernym">eng-30-02134971-n</ILR>
+        <ILR type="holo_member">eng-30-02138323-n</ILR>
+        <DEF>a mongoose-like viverrine of South Africa having a face like a lemur and only four toes</DEF>
+    </SYNSET>
+    <SYNSET>
+        <ID>eng-30-01940403-v</ID>
+        <POS>v</POS>
+        <SYNONYM>
+            <LITERAL sense="1">fly</LITERAL>
+            <LITERAL sense="1">wing</LITERAL>
+        </SYNONYM>
+        <ILR type="hypernym">eng-30-01835496-v</ILR>
+        <ILR type="verb_group">eng-30-01847845-v</ILR>
+        <ILR type="eng_derivative">eng-30-00302394-n</ILR>
+        <ILR type="eng_derivative">eng-30-02151625-n</ILR>
+        <ILR type="eng_derivative">eng-30-02190166-n</ILR>
+        <ILR type="eng_derivative">eng-30-04592741-n</ILR>
+        <ILR type="eng_derivative">eng-30-10096217-n</ILR>
+        <DEF>travel through the air; be airborne</DEF>
+        <USAGE>Man cannot fly</USAGE>
+    </SYNSET>
+    <SYNSET>
+        <ID>eng-30-01846658-v</ID>
+        <POS>v</POS>
+        <SYNONYM>
+            <LITERAL sense="1">sail</LITERAL>
+        </SYNONYM>
+        <ILR type="hypernym">eng-30-01846916-v</ILR>
+        <ILR type="eng_derivative">eng-30-00312932-n</ILR>
+        <ILR type="eng_derivative">eng-30-04127904-n</ILR>
+        <ILR type="eng_derivative">eng-30-09861395-n</ILR>
+        <ILR type="eng_derivative">eng-30-10546633-n</ILR>
+        <DEF>traverse or travel on (a body of water)</DEF>
+        <USAGE>We sailed the Atlantic</USAGE>
+        <USAGE>He sailed the Pacific all alone</USAGE>
+    </SYNSET>
+
+</WN>

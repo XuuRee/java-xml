@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subject>
+	<name>PB138 Moderní značkovací jazyky a jejich aplikace</name>
+	<faculty>Fakulta informatiky</faculty>
+	<period>jaro 2017</period>
+	<scope>
+		<title>Rozsah</title>
+		<info>2/1. 3 kr. (plus ukončení). Doporučované ukončení: zk. Jiná možná ukončení: z.</info>
+	</scope>
+	<teachers>
+		<title>Vyučující</title>
+		<info>
+			<li>doc. RNDr. Tomáš Pitner, Ph.D. (přednášející)</li>
+			<li>Mgr. Luděk Bártek, Ph.D. (přednášející)</li>
+			<li>RNDr. Adam Rambousek, Ph.D. (cvičící)</li>
+			<li>Bruno Rossi, PhD (cvičící)</li>
+		</info>
+	</teachers>
+	<guarantee>
+		<title>Garance</title>
+		<info>
+			<li>doc. RNDr. Eva Hladká, Ph.D.</li>
+			<li>Katedra počítačových systémů a komunikací - Fakulta informatiky</li>
+			<li>Kontaktní osoba: doc. RNDr. Tomáš Pitner, Ph.D.</li>
+			<li>Dodavatelské pracoviště: Katedra počítačových systémů a komunikací - Fakulta informatiky</li>
+		</info>
+	</guarantee>
+	<schedules>
+		<title>Rozvrh</title>
+		<info>St 10:00–11:50 D1, kromě St 17. 5. ; a St 17. 5. 10:00–11:50 A217</info>
+		<seminar>
+			<title>Rozvrh seminárních/paralelních skupin:</title>
+			<info>
+				<li>PB138/01: St 12:00–12:50 B130, L. Bártek</li>
+				<li>PB138/02: St 13:00–13:50 B130, L. Bártek</li>
+				<li>PB138/03: Čt 10:00–10:50 B130, A. Rambousek</li>
+				<li>PB138/04: Čt 11:00–11:50 B130, A. Rambousek</li>
+				<li>PB138/05: Čt 16:00–16:50 B130, A. Rambousek</li>
+				<li>PB138/06: Čt 17:00–17:50 B130, A. Rambousek</li>
+				<li>PB138/07: Čt 12:00–12:50 B130, B. Rossi</li>
+			</info>
+		</seminar>
+	</schedules>
+	<assumptions>
+		<title>Předpoklady</title>
+		<info>Předpokládají se základní znalosti z oblasti formálních jazyků, orientace v objektovém programování (silně doporučena základní znalost jazyka Java) a databázích. Dále je žádoucí základní znalost některého značkovacího jazyka (např. HTML) a služeb Internetu.</info>
+	</assumptions>
+	<limitations>
+		<title>Omezení zápisu do předmětu</title>
+		<info>
+			Předmět je nabízen i studentům mimo mateřské obory.
+			Předmět si smí zapsat nejvýše 200 stud.
+			Momentální stav registrace a zápisu: zapsáno: 125/200, pouze zareg.: 0/200, pouze zareg. s předností (mateřské obory): 0/200
+		</info>
+	</limitations>
+	<courses>
+		<title>Mateřské obory</title>
+		<info>
+			<li>Aplikovaná informatika (program FI, B-AP)</li>
+			<li>Bioinformatika (program FI, B-AP)</li>
+			<li>Ekonomické informační systémy (program ESF, B-SI)</li>
+			<li>Informatika a druhý obor (program FI, B-EB)</li>
+			<li>Informatika a druhý obor (program FI, B-FY)</li>
+			<li>Informatika a druhý obor (program FI, B-IO)</li>
+			<li>Informatika a druhý obor (program FI, B-MA)</li>
+			<li>Informatika a druhý obor (program FI, B-TV)</li>
+			<li>Informatika ve veřejné správě (program FI, B-AP)</li>
+			<li>Matematická informatika (program FI, B-IN)</li>
+			<li>Paralelní a distribuované systémy (program FI, B-IN)</li>
+			<li>Počítačová grafika a zpracování obrazu (program FI, B-IN)</li>
+			<li>Počítačové systémy a zpracování dat (program FI, B-IN)</li>
+			<li>Počítačové sítě a komunikace (program FI, B-IN)</li>
+			<li>Programovatelné technické struktury (program FI, B-IN)</li>
+			<li>Programovatelné technické struktury (program FI, N-IN)</li>
+			<li>Služby - výzkum, řízení a inovace (program FI, N-AP)</li>
+			<li>Sociální informatika (program FI, B-AP)</li>
+			<li>Umělá inteligence a zpracování přirozeného jazyka (program FI, B-IN)</li>
+		</info>
+	</courses>
+	<objective>
+		<title>Cíle předmětu</title>
+		<info>Předmět seznamuje se základními standardy a principy práce s technologiemi moderních značkovacích jazyků především na bázi XML. Po úspěšném zvládnutí předmětu bude student schopen s těmito technologiemi samostatně pracovat na základní úrovni.</info>
+	</objective>
+	<warp>
+		<title>Osnova</title>
+		<info>
+			<li>Moderní značkovací jazyky, Extensible Markup Language (XML), struktura a terminologie značkovaných dokumentů. Standardy základní rodiny XML.</li>
+			<li>Standardy analýzy a zpracování XML dat. Objektový model dokumentu, událostmi řízené zpracování.</li>
+			<li>Modely XML dokumentu, používané přístupy a modelovací jazyky. DTD, XML Schema, RelaxNG.</li>
+			<li>Navigace a dotazování v XML datech. XPath.</li>
+			<li>Transformace XML dat, jazyk XSLT.</li>
+			<li>Ukládání a zpracování XML dat v databázích, indexování XML dat, nativní XML databáze. Dotazovací jazyky pro XML, XQuery.</li>
+			<li>XML a internetové technologie, HTML 5.</li>
+			<li>JavaScript, JSON a další moderní webové standardy.</li>
+			<li>Metadata popisující XML zdroje, rámec RDF, ontologie. Úvod do sémantického webu.</li>
+			<li>Systémy řízené daty. Extract-Transform-Load. Zpracování komplexních událostí (CEP).</li>
+		</info>
+	</warp>
+	<literature>
+		<title>Literatura</title>
+		<info>
+			<li>SEELY, Scott. SOAP :cross platform internet development using XML. Upper Saddle River: Prentice Hall, 2002. xiv, 391 s. ISBN 0-13-090763-4.</li>
+			<li>BURKE, Eric M. Java and XSLT. 1. vyd. Sebastopol, CA, USA: O'Reilly and Associates, Inc., 2001. ISBN 0-596-00143-6.</li>
+			<li>CAGLE, Kurt. Professional XML schemas. Birmingham: Wrox Press, 2001. xv, 691 s. ISBN 1-86100-547-4.</li>
+			<li>KAY, Michael. XSLT :programmer's reference. 2nd ed. Birmingham: Wrox Press, 2001. xxxiii., 9. ISBN 1-86100-506-7.</li>
+		</info>
+	</literature>
+	<methods>
+		<title>Výukové metody</title>
+		<info>
+			Výuka probíhá formou přednášek a samostatné (obvykle týmové) konzultované práce na projektech s možností konzultací na cvičeních, kde jsou kromě toho řešeny úlohy. Teoretická příprava probíhá formou 
+			přednášek objasňující pojmy a principy z oblasti značkovacích jazyků s demonstracemi vhodných postupů a nástrojů vývoje XML aplikací. Praktická cvičení v počítačových učebnách směřující k řešení 
+			úloh (s dokončením i mimo cvičení) a v pozdější fázi semestru k řešení týmového projektu.
+		</info>
+	</methods>
+	<evaluation>
+		<title>Metody hodnocení</title>
+		<info>
+			Hodnocení předmětu je založeno na průběžném bodování čtyř individuálně řešených praktických domácích úloh (max. 12 bodů), týmového projektu, kde je bodována průběžná práce i závěrečný výsledek obhajoby (celkem max. 48 bodů) a závěrečného písemného testu (max. 40 bodů). Z celkových 100 	bodů je pro úspěšné hodnocení předmětu zkouškou třeba získat alespoň 70 bodů, pro ukončení zápočtem 60 bodů.
+		</info>
+	</evaluation>
+	<follow>
+		<title>Navazující předměty</title>
+		<info>
+			<li>PA165 Vývoj programových systémů v jazyce Java</li>
+			<li>PV030 Textual Information Systems</li>
+			<li>PV113 Produkce audiovizuálního díla</li>
+			<li>PV226 Seminář Laboratoře softwarových architektur a informačních systémů</li>
+		</info>
+	</follow>
+	<informations>
+		<title>Informace učitele</title>
+		<info>
+			Předmět předpokládá značný podíl samostatné práce na projektech a při samostudiu z originálních (= anglicky psaných) specifikací a dalších zdrojů. Rovněž většina podpůrných materiálů k přednášce (slidy) i k úlohám (zadání) je k dispozici v angličtině. ------- The subject requires ability to work independently on own projects, as well as reading original specifications and other English-written documents. The majority of support materials for lectures (slides) as well as task/homeworks specifications are available in English.
+		</info>
+	</informations>
+	<comments>
+		<title>Další komentáře</title>
+		 <info>Předmět je vyučován každoročně.</info>
+	</comments>
+</subject>
