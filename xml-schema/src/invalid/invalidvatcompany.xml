@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<company
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="company.xsd">
+
+    
+    <!-- did is required, a nonempty string unique for all divisions,
+      (can be used as a key for divisions)
+      mandatory element - there must be always at least one division in the company
+    -->
+    <division did="development_brno">
+        <head>
+            <person pid="2">
+                <name>Jan</name>
+                <surname>Novák</surname>
+                <salary>200000.00</salary>
+            </person>
+        </head>
+        <employees>
+            <employee category="contractor" eid="10>
+                <company>Some company</company>
+                <fee>100000.00</fee>
+                <vat>Not even p</vat>
+            </employee>
+        </employees>
+        
+    </division>
+</company>

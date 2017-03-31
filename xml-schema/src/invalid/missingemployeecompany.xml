@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<company
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="company.xsd">
+
+    
+    <!-- did is required, a nonempty string unique for all divisions,
+      (can be used as a key for divisions)
+      mandatory element - there must be always at least one division in the company
+    -->
+    <division did="production_zlin">
+        <!-- name is optional and contains a string -->
+        <name>Production factory Zlín</name>
+        <!-- head is optional and contains always a person if present -->
+        <head>
+            <!-- mandatory element person, pid is required, unique (positive) integer 
+            (can be used as a key for persons);
+            the name, surname, salary elts. can be ordered in any order
+            -->
+            <person pid="1"> 	
+                <!-- name is required, non-empty string -->	 
+                <name>Pavel</name>	 
+                <!-- surname is required, non-empty string -->
+                <surname>Novák</surname> 
+                <!-- salary is required, positive number 
+	             with 2 decimal places precision, e.g. 10000.50 -->
+                <salary>20000.00</salary> 
+                <!-- note optional element, repeatable, contains any string -->  
+                <note>Poznámka</note>   
+            </person>            
+        </head>
+        <employees/>
+    </division>
+    </company>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<company
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="company.xsd">
+
+    
+    <!-- did is required, a nonempty string unique for all divisions,
+      (can be used as a key for divisions)
+      mandatory element - there must be always at least one division in the company
+    -->
+    <division did="production_zlin">
+        <!-- name is optional and contains a string -->
+        <name>Production factory Zlín</name>
+        <head/>
+        <!-- head is optional and contains always a person if present -->
+        <employees><!-- optional element, products of the division. Must contain one or more 
+                    elements product-->
+           <employee category="worker" eid="1">
+               <name>Jan Novak</name>
+               <salary>100000.00</salary>
+           </employee>
+        </employees>
+    </division>
+    </company>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <!-- group for elements 'worker' and 'contractor' -->
+    <xs:group name="subElementWorker">                      
+        <xs:sequence>
+            <xs:element name="name" minOccurs="1" maxOccurs="1">                
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:pattern value="[A-Z]{1}[a-z]*\s[A-Z]{1}[a-z]*"/>  
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="salary" minOccurs="1" maxOccurs="1">
+                <xs:simpleType>
+                    <xs:restriction base="xs:decimal">
+                        <xs:minInclusive value="0"/>
+                        <xs:pattern value="[+-]?\d+\.\d{2}"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+        </xs:sequence>
+    </xs:group>
+    <xs:group name="subElementContractor">
+        <xs:sequence>
+            <xs:element name="company" type="xs:string" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="fee" minOccurs="1" maxOccurs="1">
+                <xs:simpleType>
+                    <xs:restriction base="xs:decimal">
+                        <xs:minInclusive value="0"/>
+                        <xs:pattern value="[+-]?\d+\.\d{2}"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="vat" minOccurs="1" maxOccurs="1">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:enumeration value="yes"/>
+                        <xs:enumeration value="no"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>                                                      
+        </xs:sequence>
+    </xs:group>
+    <!-- company element -->
+    <xs:element name="company">
+        <xs:complexType>
+            <xs:sequence>                                                                                          
+                <!-- division element  -->
+                <xs:element name="division" minOccurs="1" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <!-- name element -->
+                            <xs:element name="name" type="xs:string" minOccurs="0" maxOccurs="1"/>
+                            <!-- head element -->
+                            <xs:element name="head" minOccurs="0" maxOccurs="1">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="person" minOccurs="1" maxOccurs="1">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="name" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                                                    <xs:element name="surname" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                                                    <xs:element name="salary" minOccurs="1" maxOccurs="1">
+                                                        <xs:simpleType>
+                                                            <xs:restriction base="xs:decimal">
+                                                                <xs:minInclusive value="0"/>
+                                                                <xs:pattern value="[+-]?\d+\.\d{2}"/>
+                                                            </xs:restriction>
+                                                        </xs:simpleType>
+                                                    </xs:element>
+                                                    <xs:element name="note" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                                                </xs:sequence>
+                                                <xs:attribute name="pid" type="xs:positiveInteger" use="required"/>       
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>         
+                                </xs:complexType>
+                            </xs:element>
+                            <!-- employees element -->
+                            <xs:element name="employees" minOccurs="0" maxOccurs="1"> 
+                                <xs:complexType>
+                                    <!-- employee element -->
+                                    <xs:sequence> 
+                                        <xs:element name="employee" minOccurs="1" maxOccurs="unbounded">
+                                            <xs:complexType> 
+                                                <xs:sequence>
+                                                    <xs:choice>
+                                                        <xs:group ref="subElementWorker"/>
+                                                        <xs:group ref="subElementContractor"/>
+                                                    </xs:choice>                                                      
+                                                </xs:sequence>
+                                                <xs:attribute name="eid" type="xs:positiveInteger" use="required"/>
+                                                <xs:attribute name="category" use="required">
+                                                    <xs:simpleType>
+                                                        <xs:restriction base="xs:string">
+                                                            <xs:enumeration value="developer"/>
+                                                            <xs:enumeration value="worker"/>
+                                                            <xs:enumeration value="thp"/>
+                                                            <xs:enumeration value="contractor"/>
+                                                        </xs:restriction>
+                                                    </xs:simpleType>
+                                                </xs:attribute>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="did" type="xs:string" use="required"/>     
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence> 
+        </xs:complexType>
+        <xs:unique name="personUniqueKey">
+            <xs:selector xpath=".//person"/>
+            <xs:field xpath="@pid"/>
+        </xs:unique>
+        <xs:unique name="divisionUniqueKey">
+            <xs:selector xpath="division"/>
+            <xs:field xpath="@did"/>
+        </xs:unique>
+    </xs:element>
+</xs:schema>

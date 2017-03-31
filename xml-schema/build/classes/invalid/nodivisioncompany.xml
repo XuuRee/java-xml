@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<company
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="company.xsd">
+
+    
+    <!-- did is required, a nonempty string unique for all divisions,
+      (can be used as a key for divisions)
+      mandatory element - there must be always at least one division in the company
+    -->
+</company>

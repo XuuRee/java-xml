@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>Fakulta informatiky Masarykovy univerzity</title>
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <link rel="shortcut icon" href="/images2013/favicon.ico" type="image/x-icon" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="stylesheet" type="text/css" media="screen,projection" href="/css2013/style.css" title="default" />
+  <link rel="alternate stylesheet" type="text/css" href="/css2013/glasses.css" title="glasses" />
+  <link rel="alternate stylesheet" type="text/css" href="/css2013/responsiveStyle.css" title="default" id="responsiveStylesheet" />
+  <link rel="stylesheet" type="text/css" media="print" href="/css2013/print.css" />
+  <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/css2013/ie6.css" media="screen,projection"><![endif]-->
+  <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/css2013/ie7.css" media="screen,projection"><![endif]-->
+  <link rel="stylesheet" type="text/css" media="screen,projection" href="/css2013/highslide.css" title="default" />
+
+  <!-- 18c17f0b0d4578b02e0bc02c53167757 -->
+  <script type="text/javascript" src="/js2013/jquery.min.js"></script>
+  
+    <script type="text/javascript" src="/js2013/jquery.cycle.all.js"></script>
+  
+
+  <script type="text/javascript" src="/highslide2013/highslide.js"></script>
+  <script type="text/javascript" src="/js2013/styleswitcher.js"></script>
+  <script type="text/javascript" src="/js2013/responsive.js"></script>
+
+  <script type="text/javascript" src="/js/zalozky.js"></script>
+  <script type="text/javascript" src="/js/oprav_postovni_adresu.js"></script> 
+  <script type="text/javascript">
+      add_load_event(function(){oprav_postovni_adresu()});
+  </script>
+
+  
+      <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-1307924-1']);
+          _gaq.push(['_setDomainName', 'www.fi.muni.cz']);
+          _gaq.push(['_setSiteSpeedSampleRate', '100']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+              var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+              ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+      </script>
+  
+
+  <meta property="og:title" content="Fakulta informatiky Masarykovy univerzity"/>
+  <meta property="og:description" content="Fakulta informatiky Masarykovy univerzity"/>
+  <meta property="og:image" content="http://www.fi.muni.cz/images/logo_fi_cnv.png"/>
+  <meta property="og:image:secure_url" content="https://www.fi.muni.cz/images/logo_fi_cnv.png" />
+</head>
+<body id="home">
+
+  <div id="mWrap">
+  <div id="main">
+  <div id="main2">
+
+    <div id="header">
+      <div id="logo">
+        
+          <h1>Fakulta informatiky Masarykovy univerzity</h1><span class="cs"></span>
+        
+      </div>
+
+      <div id="fimunilogo">
+          <a href=""><img src="/images2013/new/logo-fi-kulate.png" alt="LOGO FI MUNI" /></a>
+      </div>
+    </div>
+
+
+    <div id="altNav">
+      <a href="#wrapper">skočit na obsah</a>
+      <a href="#mm">skočit na menu</a>
+      <a href="#search">skočit na vyhledávání</a>
+    </div>
+
+
+    
+      
+        <div class="subHeader">
+          <div class="slidesList" id="hpSlideShow1">
+            <a href="/for_applicants/alumni-employment.xhtml.cs" class="slideItem clearfix">
+                            <div class="column2">
+                              <img src="/images2013/banner-absolventi.jpg" alt="Absolventi FI MU jsou vysoce hodnoceni" />
+                            </div>
+                            <div class="column1">
+                              <div class="inner">
+                                <div class="row1">Absolventi FI MU jsou vysoce hodnoceni</div>
+                                <div class="row2">Práci hledají snadno a plat mají vyšší než absolventi ostatních fakult MU.</div>
+                              </div>
+                            </div>
+                          </a><a href="http://www.cerit.cz/cs/cerit-sp/" class="slideItem clearfix" style="display: none;">
+                      <div class="column2">
+                        <img src="https://fadmin.fi.muni.cz/images2013/new/tmp/hpslide1.jpg" alt="Budujeme vědeckotechnický park" />
+                      </div>
+                      <div class="column1">
+                        <div class="inner">
+                          <div class="row1">Budujeme vědeckotechnický park</div>
+                          <div class="row2">Vzniká v rámci Centra vzdělávání, výzkumu a inovací pro ICT (CERIT) a bude dokončen v r. 2014.</div>
+                        </div>
+                      </div>
+                    </a><a href="/about/skolicka/" class="slideItem clearfix" style="display: none;">
+                      <div class="column2">
+                        <img src="/images2013/banner_skolicka.jpg" alt="Školička Fakulty informatiky MU" />
+                      </div>
+                      <div class="column1">
+                        <div class="inner">
+                          <div class="row1">Školička Fakulty informatiky MU</div>
+                          <div class="row2">Podporujeme sladění rodinného a pracovního života.</div>
+                        </div>
+                      </div>
+                    </a>
+
+            <div class="slidesPaginator clearfix">
+            </div>
+          </div>
+        </div>
+      
+    
+
+    
+
+    <div class="clr" id="wrapper">
+    
+        <div id="text-box">
+    
+        <div id="text">
+        <div id="innerText">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+        
+
+        
+                    <div class="HPSection HPLinks">
+          <div class="header clearfix">
+            <div class="tabs">
+              <a href="for_applicants/index.xhtml.cs">Pro uchazeče</a>
+              <a href="for_partners/index.xhtml.cs">Pro partnery</a>
+            </div>
+            <h2>Studenti a&nbsp;zaměstnanci</h2>
+          </div>
+          <div class="columns withBorder clearfix">
+            <div class="column1">
+              <a href="contacts/office_for_studies.xhtml.cs">Studijní oddělení</a>
+              <a href="katalog/">Studijní katalog</a>
+              
+              <a href="http://www.video.muni.cz/prednasky.cgi?fakulta=1433" class="nu" title="Videa z přednášek FI | odkaz vede mimo web FI"><span class="mu">Videa z&nbsp;přednášek FI</span></a>
+              <a href="about/library/index.xhtml.cs">Knihovna FI</a>
+              <a href="http://is.muni.cz/do/1433/uredni_deska/" class="nu" title="Úřední deska | odkaz vede mimo web FI"><span class="is">Úřední deska</span></a>
+            </div>
+            <div class="column2">
+              <a href="http://is.muni.cz/" class="nu" title="Informační systém MU | odkaz vede mimo web FI"><span class="is">Informační systém MU</span></a>
+              <a href="http://is.muni.cz/obchod/fakulta/fi/" class="nu" title="Obchodní centrum MU | odkaz vede mimo web FI"><span class="is">Obchodní centrum MU</span></a>
+              <a href="http://is.muni.cz/do/fi/studas/index.html" class="nu" title="Studentská komora AS FI | odkaz vede mimo web FI"><span class="is">Studentská komora AS FI</span></a>
+              <a href="tech/" title="Technické informace">Technické informace</a>
+              <a href="research/colloquium/" title="Informatické kolokvium">Informatické kolokvium</a>
+            </div>
+            <div class="column3">
+              <a href="http://www.skm.muni.cz" class="nu" title="Koleje a menzy MU  | odkaz vede mimo web FI"><span class="mu">Koleje a&nbsp;menzy MU</span></a>
+              <a href="http://library.muni.cz" class="nu" title="Knihovny MU  | odkaz vede mimo web FI"><span class="mu">Knihovny MU</span></a>
+              <a href="http://inet.muni.cz" class="nu" title="INET.muni.cz | odkaz vede mimo web FI"><span class="mu">INET.muni.cz</span></a>
+              <a href="http://www.cerit.cz" class="nu" title="CERIT | odkaz vede mimo web FI"><span class="out">CERIT</span></a>
+            </div>
+          </div>
+        </div>
+
+
+    <div class="HPSection HPNews">
+          <div class="header">
+            <h2>Akce a uzávěrky</h2>
+          </div>
+
+          <div class="withBorder">
+            <ul>
+
+                
+                    <li><a href="http://fadmin.fi.muni.cz/noauth/sys/akt_list.mpl?feed_id=1&amp;lang=cs#x1163"> Veřejná prezentace projektů Programu pro podporu studentských výzkumných a vývojových projektů na FI</a> (11.&nbsp;3.&nbsp;2014)</li>
+                
+
+                
+                    <li><a href="http://fadmin.fi.muni.cz/noauth/sys/akt_list.mpl?feed_id=1&amp;lang=cs#x1177"> Logic Café</a> (14.&nbsp;3.&nbsp;2014)</li>
+                
+
+                
+                    <li><a href="http://fadmin.fi.muni.cz/noauth/sys/akt_list.mpl?feed_id=1&amp;lang=cs#x1169"> Steve Chin at FI MU: Java 8 Lambdas and Devices</a> (14.&nbsp;3.&nbsp;2014)</li>
+                
+
+                
+                    <li><a href="http://fadmin.fi.muni.cz/noauth/sys/akt_list.mpl?feed_id=1&amp;lang=cs#x1124"> Soutěž Bezpečnostní diplomová práce</a> (24.&nbsp;4.&nbsp;2014)</li>
+                
+
+                
+                    <li><a href="http://fadmin.fi.muni.cz/noauth/sys/akt_list.mpl?feed_id=1&amp;lang=cs#x1168"> Nový anglický kurz J002 Requirements Engineering in Agile Software Development</a> </li>
+                
+
+                
+                    <li><a href="http://fadmin.fi.muni.cz/noauth/sys/akt_list.mpl?feed_id=1&amp;lang=cs#x1172"> Open Source Contest - jaro 2014</a> </li>
+                
+
+                
+    
+            </ul>
+
+            <div class="bottom clearfix">
+              <div class="column1">
+                <a href="http://fadmin.fi.muni.cz/noauth/sys/akt_list.mpl?feed_id=1&amp;lang=cs&amp;archive=1" class="moreLink">Zobrazit všechny<i class="circleArrow"></i></a>
+              </div>
+              <div class="column2">
+                <a href="http://fadmin.fi.muni.cz/noauth/sys/akt_list.mpl?lang=cs&amp;feed_id=1&amp;rss=1" class="rssLink"><i class="rss"></i>RSS</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="HPSection HPBottomSection">
+          <div class="header">
+            <h2>Fakulta informatiky</h2>
+          </div>
+          <div style="position: relative" class="columns withBorder clearfix">
+            <div class="column1">
+              <p><b>Kvalita podložená tradicí.</b> Nejstarší samostatná fakulta
+              informatiky u&nbsp;nás. Podle hodnocení výsledků výzkumu
+              <a href="http://idea.cerge-ei.cz/documents/studie_2012_03.pdf" class="out">CERGE-EI (2012)</a> nejlepší instituce v&nbsp;ČR v&nbsp;oboru informatika.</p>
+
+              <p><b>Výborné uplatnění.</b> Úzká 
+              <a href="/for_partners/index.xhtml.cs">spolupráce FI s&nbsp;IT 
+              firmami</a>, vysoká poptávka po absolventech, vysoké nástupní 
+              platy, uplatnění ve vystudovaném oboru.</p>
+
+              <p><b>Komfort a&nbsp;široké možnosti studia.</b> Široká 
+              <a href="/studies/index.xhtml.cs">nabídka oborů</a>, možnost
+              zapisovat si předměty jiných fakult a&nbsp;absolvovat část studia v
+              zahraničí, elektronická podpora výuky (online zápis předmětů,
+              elektronické studijní materiály, videozáznamy přednášek atd.).</p>
+              <a href="about/index.xhtml.cs" class="moreLink">Více o&nbsp;fakultě<em class="circleArrow"></em></a>
+
+              
+
+            </div>
+
+            <div class="column2">
+              <div id="hpSlideShow2" class="slidesList">
+                <div class="slideItem">
+                                    <a href="http://nlp.fi.muni.cz/"><img src="/images2013/upoutavky/11-nlp-cs.png" alt="Laboratoř zpracování přirozeného jazyka" /></a>
+                                </div><div class="slideItem" style="display:none">
+                                    <a href="http://www.sitola.cz/wordpress/cs/"><img src="/images2013/upoutavky/12-sitola-cz.png" alt="Laboratoř pokročilých síťových technologií" /></a>
+                                </div><div class="slideItem" style="display:none">
+                                    <a href="http://l202.fi.muni.cz/"><img src="/images2013/upoutavky/14-l202-cs.png" alt="Laboratoř konstrukce a architektury číslicových systemů" /></a>
+                                </div><div class="slideItem" style="display:none">
+                                    <a href="http://lsd.fi.muni.cz/tiki-index.php?page=HomePageCZ"><img src="/images2013/upoutavky/17-lsd-cs.png" alt="Laboratoř vyhledávání a dialogu" /></a>
+                                </div><div class="slideItem" style="display:none">
+                                    <a href="http://sybila.fi.muni.cz/"><img src="/images2013/upoutavky/29-sybila-cz.png" alt="Laboratoř systémové biologie" /></a>
+                                </div><div class="slideItem" style="display:none">
+                                    <a href="http://agdamm.fi.muni.cz/"><img src="/images2013/upoutavky/34-agdamm-cs.png" alt="Ateliér grafického designu a multimédií FI MU" /></a>
+                                </div><div class="slideItem" style="display:none">
+                                    <a href="http://www.fi.muni.cz/lemma/"><img src="/images2013/upoutavky/13-lemma-cs.png" alt="Laboratoř elektronických multimediálních aplikací" /></a>
+                                </div><div class="slideItem" style="display:none">
+                                    <a href="http://decibel.fi.muni.cz/"><img src="/images2013/upoutavky/02-hci.jpg" alt="HCI Laboratory" /></a>
+                                </div><div class="slideItem" style="display:none">
+                                    <a href="http://lasaris.fi.muni.cz/"><img src="/images2013/upoutavky/lasaris-cz.png" alt="Laboratoř softwarových architektur a informačních systémů" /></a>
+                                </div><div class="slideItem" style="display:none">
+                                    <a href="http://www.fi.muni.cz/research/crocs/labak-2.xhtml"><img src="/images2013/upoutavky/03-labak.png" alt="Laboratoř bezpečnosti a aplikované kryptografie" /></a>
+                                </div><div class="slideItem" style="display:none">
+                                    <a href="http://quantum.fi.muni.cz/"><img src="/images2013/upoutavky/04-quantum-cs.png" alt="Laboratoř kvantového zpracování informace a kryptografie" /></a>
+                                </div><div class="slideItem" style="display:none">
+                                    <a href="http://disa.fi.muni.cz/"><img src="/images2013/upoutavky/disa-cz.png" alt="Laboratoř datově orientovaných systémů a aplikací" /></a>
+                                </div>
+
+                <div class="slidesPaginator clearfix">
+                </div>
+
+              </div>
+
+              <a href="http://fadmin.fi.muni.cz/noauth/sys/upoutavky.mpl?lang=cs" id="nextSlide2">Další</a>
+
+            </div>
+
+            
+
+          </div>
+
+
+
+          <div class="columns clearfix">
+            <div class="column1">
+              <p style="margin-top: 20px;">
+                <a href="https://www.facebook.com/FI.MUNI.cz" class="morelink">
+                  <img alt="facebook logo" src="/images2013/f_logo.png" style="float:left;"/>
+            
+                </a>
+                <a href="https://twitter.com/FI_MUNI" class="morelink">
+                  <img alt="twitter logo" src="/images2013/twitter_5050.png"/>
+                </a>
+              </p>
+           </div>
+           <div style="text-align: right;" class="column2">
+             <p style="margin-top: 20px;">
+               <a href="http://www.online.muni.cz/fi/"><img alt="Zpravodajský portál Masarykovy univerzity" src="/images2013/banner_onlinemuni_cz.png" style="display: inline; width: 150px;"/></a>
+               <a href="http://veda.muni.cz/"><img alt="věda.muni.cz" src="/images2013/banner_vedamuni_cz.png" style="display: inline; width: 150px;"/></a>
+             </p>
+           </div>
+         </div>
+        </div>
+        
+    
+
+
+    </div>        <!-- end of id="innerText" -->
+    </div>
+
+     
+        </div>    <!-- end of id="text" -->
+              
+        <div id="nav">
+        <div id="innerNav">
+
+        
+
+        <div class="mobileOnly">
+          <div class="navigationHeader clearfix">
+            <div class="column1">
+              <strong>Menu</strong>
+            </div>
+            <div class="column2">
+              <a href="#main" class="backToMain"><b>Zpět nahoru</b></a>
+            </div>
+          </div>
+        </div>
+
+        <ul id="mm">
+        
+            
+
+                
+                    <li><a href="/index.xhtml.cs" class="active"> Hlavní strana </a></li>
+                
+
+            
+
+
+        
+            
+                <li><a href="/about/index.xhtml.cs"> O Fakultě informatiky </a></li>
+            
+
+
+        
+            
+                <li><a href="/admission/index.xhtml.cs"> Přijímací řízení </a></li>
+            
+
+
+        
+            
+                <li><a href="/studies/index.xhtml.cs"> Studium </a></li>
+            
+
+
+        
+            
+                <li><a href="/research/index.xhtml.cs"> Výzkum a vývoj </a></li>
+            
+
+
+        
+            
+                <li><a href="/international/index.xhtml.cs"> Zahraniční studium </a></li>
+            
+
+
+        
+            
+                <li><a href="/elearning/index.xhtml.cs"> E-learning </a></li>
+            
+
+
+        
+            
+                <li><a href="/for_partners/index.xhtml.cs"> Průmysloví partneři </a></li>
+            
+
+
+        
+            
+                <li><a href="/aktuality.xhtml.cs"> Aktuality </a></li>
+            
+
+
+        
+            
+                <li><a href="/contacts/index.xhtml.cs"> Kontakty </a></li>
+            
+
+
+        
+        </ul>
+
+        <div class="adv">
+          <h2>Víte, že:</h2>
+          <p>Z počátečních relativně skromných poměrů, se dvěma desítkami učitelů a necelými čtyřmi sty studentů, se fakulta od doby svého vzniku výrazně rozrostla a má dnes přes 2200 studentů.</p>
+          <div class=""><a href="/about/index.xhtml">více o fakultě</a></div>
+        </div>
+
+        <div class="contact">
+          <h2>Kontakt</h2>
+
+          <div class="mmp mmp0">
+            <a href="/contacts/">Všechny kontakty</a>
+            <a href="/contacts/office_for_studies.xhtml.cs">Studijní oddělení</a>
+          </div>
+
+          <div class="rel mmp">
+            <p>
+              Botanická 68a (<a href="/contacts/">Mapa</a>)<br />
+              602 00 Brno
+            </p>
+          </div>
+
+          <div class="mmp">
+            <table>
+              <tr><th>Telefon</th><td>+420-549 491 810</td></tr>
+              <tr><th>Fax</th><td>+420-549 491 820</td></tr>
+              <tr><th>E-mail</th><td>
+                <span class="postovni_adresa">info<img src="/images/mail/atsign.gif" alt="(zavináč/atsign)" />fi<img src="/images/mail/dot.gif" alt="(tečka/dot)" />muni<img src="/images/mail/dot.gif" alt="(tečka/dot)" />cz</span>
+              </td></tr>
+            </table>
+          </div>
+
+          <div class="mmp vchod">
+            <h2>Dočasný vstup</h2>
+
+            <a onclick="return hs.expand(this)" class="highslide " href="/images2013/fi-mapa-cz.jpg" style=""><img src="/images2013/new/tmp/vchod.jpg" alt="Dočasný vstup do budovy" class="vchod" /></a>
+          </div>
+        </div>
+
+        
+
+      </div>
+      </div>
+
+        </div>    <!-- end of id="wrapper" -->
+    
+
+    </div>
+
+    
+      <div id="sl">
+        <div id="search">
+        <div id="innerSearch">
+          <!-- Google CSE Search Box Begins -->
+          <form id="searchbox_010477525560646045864:huk3as1vcri" action="http://fadmin.fi.muni.cz/noauth/search/search.mpl">
+          <div>
+              <input type="hidden" name="cx" value="010477525560646045864:huk3as1vcri" />
+              <input type="hidden" name="cof" value="FORID:9" />
+              <input type="hidden" name="ie" value="UTF-8" />
+              <input type="hidden" name="oe" value="UTF-8" />
+              <input type="hidden" name="lang" value="cs" />
+              <input type="text" class="txt txt-search" name="q" alt="vložte hledaný výraz" value="" />
+              <input type="submit" class="ss" name="sa" value="vyhledat" />
+          </div>
+          </form>
+          <!-- Google CSE Search Box Ends -->
+        </div>
+        </div>
+
+        
+          <div id="lang">
+            <a href="./index.xhtml.en" onclick="createCookie('language', 'en')" id="en"><span class="flag"></span>English</a>
+          </div>
+        
+
+        <div id="isLinks">
+          <a href="https://is.muni.cz/auth/" class="ismuniLink">IS MU</a>
+          <a href="https://fadmin.fi.muni.cz/auth/" class="fadminLink">Fadmin</a>
+        </div>
+      </div>
+    
+
+    <div id="footer">
+      <div class="clr">
+          <div class="f0">
+             <a href="#" onclick="disableResponsiveStylesheet(); return false;" id="disableResponsiveStylesheet">Standardní verze webu</a>
+             <a href="#" onclick="setActiveStyleSheet('glasses'); return false;" class="glasses">Styl pro slabozraké</a>
+          </div>
+          <div class="f1">
+            <div class="row1">Fakulta informatiky MU</div>
+            <div class="row2">
+              <span class="postovni_adresa">webmaster<img src="/images/mail/atsign.gif" alt="(zavináč/atsign)" />fi<img src="/images/mail/dot.gif" alt="(tečka/dot)" />muni<img src="/images/mail/dot.gif" alt="(tečka/dot)" />cz</span>
+              <i>|</i>
+             
+                  
+                      <a href="https://fadmin.fi.muni.cz/auth/wiki3/webfi2013/index.xhtml.cs" rel="nofollow"><img  class="inline" src="/pics/wide/page_edit.png" alt="Upravit stránku" /></a>
+                  
+                  <i>|</i>
+             
+              <a href="#" onclick="setActiveStyleSheet('glasses'); return false;" class="glasses">styl pro slabozraké</a>
+              <a href="#" class="default" onclick="setActiveStyleSheet('default'); return false;">standardní styl</a>
+              <i>|</i>
+              <a href="#" class="enableResponsiveLink" onclick="enableResponsiveStylesheet(); return false;">mobilní styl</a>
+              </div>
+          </div>
+          <div class="f2">
+            <div class="socialButtons">
+              <a href="http://twitter.com/share?url=http%3A%2F%2Fwww.fi.muni.cz%2Findex.xhtml.cs" class="twitter"><span>Twitter</span></a>
+              <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.fi.muni.cz%2Findex.xhtml.cs" class="facebook"><span>Facebook</span></a>
+              <a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.fi.muni.cz%2Findex.xhtml.cs" class="googleplus"><span>Google+</span></a>
+              <!--
+                  <a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.fi.muni.cz%2Findex.xhtml.cs&media=http%3A%2F%2Fwww.fi.muni.cz%2Fimages%2Flogo_fi_cnv.png&description=Logo%20FI%20MU" class="pinterest"><span>Pinterest</span></a>-->
+            </div>
+          </div>
+      </div>
+      <div id="up"><a href="#main">zpět nahoru<span></span></a></div>
+
+      <div class="muniLogo">
+        <a href="http://www.muni.cz/"><img alt="Masarykova univerzita" src="/images2013/new/logo-muni-kulate.png" /></a>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+</body>
+
+</html>
+
