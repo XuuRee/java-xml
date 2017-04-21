@@ -1,2 +1,2 @@
 # java-xml
-DOM API (Java), XML Schema etc.
+Playground for DOM API (Java), XML Schema, XSLT & HTML etc.
