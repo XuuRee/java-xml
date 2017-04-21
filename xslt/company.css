@@ -1,0 +1,38 @@
+/* 
+    Document   : company
+    Created on : 20.3.2015
+    Author     : tomp
+    Description:
+        A stylesheet which can be used for styling 
+        the HTML resulting from the transformation.
+*/
+
+root { 
+    display: block;
+}
+body, html {
+	margin: 0;
+	padding: 0;
+	color: #000;
+	font-family: arial, tahoma, verdana;
+	background: #fff;
+}
+h1, h2 {
+	padding: 5px;
+	margin: 5px;
+}
+h3, h4 {
+	font-style: italic;
+}
+.link-box {
+    color: #88f; background-color: #ffd; margin: 1em; padding: 0.5em; border: thin dotted;
+}
+.division {
+    background-color: #dfd; margin: 1em; padding: 0.5em; border: thin dotted;
+}
+.position {
+    background-color: #fdd; margin: 1em; padding: 0.5em; border: thin dotted;
+}
+.division-head {
+    background-color: #fff; margin: 1em; padding: 0.5em; border: thin solid;
+}
